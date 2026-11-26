@@ -1,6 +1,6 @@
 {
   "name": "anyhash",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "Stable hash of any JavaScript value: objects (any key order), Map, Set, Date, typed arrays, class instances, circular references. Fast 128-bit hash or SHA-256. Zero dependencies.",
   "keywords": [
     "hash",
@@ -17,7 +17,8 @@
     "deep-equal"
   ],
   "license": "MIT",
-  "author": "ckgiri",
+  "author": "CK Giri <ckgdev@gmail.com>",
+  "funding": "https://github.com/ckgiri/anyhash?sponsor=1",
   "homepage": "https://github.com/ckgiri/anyhash",
   "repository": {
     "type": "git",
